@@ -153,18 +153,24 @@ You can now access the application in your browser
 
 ---
 
-### 🔐 Logging in
+## 🔐 Logging in
 
 ![TechNerd - Desktop Layout](https://github.com/GxbrielZ/microservice-ticketing-system/blob/main/client/public/preview/login.gif)
 
-### ➕ Adding request
+---
+
+## ➕ Adding request
 
 ![TechNerd - Desktop Layout](https://github.com/GxbrielZ/microservice-ticketing-system/blob/main/client/public/preview/add.gif)
 
-### ✏️ Changing request status
+---
+
+## ✏️ Changing request status
 
 ![TechNerd - Desktop Layout](https://github.com/GxbrielZ/microservice-ticketing-system/blob/main/client/public/preview/change.gif)
 
-### ❌ Deleting request and checking logs
+---
+
+## ❌ Deleting request and checking logs
 
 ![TechNerd - Desktop Layout](https://github.com/GxbrielZ/microservice-ticketing-system/blob/main/client/public/preview/logs.gif)
